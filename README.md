@@ -1,7 +1,7 @@
 //Jessie Lamzon
 //10/25/22
 //Mad Lib End Point
-//
+//https://github.com/JLamzon/lamzonJ-MadLibEndPoint
 //Peer Review:Kent Tupas The program work like it intends to. There was no errors at all. 
 
 How to open and run file:
